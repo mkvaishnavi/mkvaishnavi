@@ -62,7 +62,7 @@ The Placement Portal Application and HealthEase Hospital Management System were 
 
 ## 📫 How to Reach Me
 
-* LinkedIn: [https://www.linkedin.com/in/krishna-vaishnavi-mudireddy/]
-* Email: [mkvaishnavi07@gmail.com]
+* LinkedIn: https://www.linkedin.com/in/krishna-vaishnavi-mudireddy/
+* Email: mkvaishnavi07@gmail.com
 
 Thanks for visiting my profile!
