@@ -56,11 +56,9 @@ A role-based campus recruitment platform built with Flask, SQLAlchemy, SQLite, a
 
 A hospital management platform that enables appointment scheduling, medical record management, and treatment tracking for patients, doctors, and administrators.
 
-```text
 ## Note
 
 The Placement Portal Application and HealthEase Hospital Management System were developed as part of my IIT Madras BS coursework. The repositories are hosted under my IITM GitHub account (Roll No: 24F2009315 and Username: 24f2009315), and I contributed to their development and maintenance as a collaborator.
-```
 
 ## 📫 How to Reach Me
 
