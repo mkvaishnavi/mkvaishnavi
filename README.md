@@ -58,7 +58,7 @@ A hospital management platform that enables appointment scheduling, medical reco
 
 ## Note
 
-The Placement Portal Application and HealthEase Hospital Management System were developed as part of my IIT Madras BS coursework. The repositories are hosted under my IITM GitHub account (Roll No: 24F2009315 and Username: 24f2009315), and I contributed to their development and maintenance as a collaborator.
+The Placement Portal Application and HealthEase Hospital Management System were developed as part of my IIT Madras BS coursework. The repositories are hosted under my IITM GitHub account (Username: 24f2009315), and I contributed to their development and maintenance as a collaborator.
 
 ## 📫 How to Reach Me
 
